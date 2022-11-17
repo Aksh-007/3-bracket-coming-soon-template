@@ -11411,9 +11411,9 @@ video.bg-video {
   width: 4rem;
   border-radius: 100rem;
 }
-.custom-font{
-  color: #9ACDEA;
-  font-family: 'Dancing Script', sans-serif;
+.custom-class{
+  width: 30rem;
+  margin-bottom: 50px;
 }
 
 @media (min-width: 992px) {
